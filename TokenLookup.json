@@ -1,0 +1,3128 @@
+{
+    "klines.1INCHUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1133789,
+        "latestMissing": 993
+    },
+    "klines.AAVEUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1221809,
+        "latestMissing": 1344
+    },
+    "klines.ACAUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:57:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 564778,
+        "latestMissing": 0
+    },
+    "klines.ACHUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:50:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 563571,
+        "latestMissing": 0
+    },
+    "klines.ACMUSDT.1m": {
+        "checkedDataStart": "2021-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:56:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-03-01 00:00:00+00:00",
+        "latestExpected": 1049997,
+        "latestMissing": 914
+    },
+    "klines.ADAUSDT.1m": {
+        "checkedDataStart": "2018-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-05-01 00:00:00+00:00",
+        "latestExpected": 2539231,
+        "latestMissing": 5802
+    },
+    "klines.ADXUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:40:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697181,
+        "latestMissing": 0
+    },
+    "klines.AGIXUSDT.1m": {
+        "checkedDataStart": "2023-02-18 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:45:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-18 00:00:00+00:00",
+        "latestExpected": 13966,
+        "latestMissing": 0
+    },
+    "klines.AGLDUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697213,
+        "latestMissing": 1
+    },
+    "klines.AKROUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:50:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1179591,
+        "latestMissing": 1284
+    },
+    "klines.ALCXUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:19:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 654020,
+        "latestMissing": 0
+    },
+    "klines.ALGOUSDT.1m": {
+        "checkedDataStart": "2019-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-07-01 00:00:00+00:00",
+        "latestExpected": 1925968,
+        "latestMissing": 2989
+    },
+    "klines.ALICEUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1004189,
+        "latestMissing": 824
+    },
+    "klines.ALPACAUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:10:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785051,
+        "latestMissing": 121
+    },
+    "klines.ALPHAUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:42:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1222123,
+        "latestMissing": 1344
+    },
+    "klines.ALPINEUSDT.1m": {
+        "checkedDataStart": "2022-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-03-01 00:00:00+00:00",
+        "latestExpected": 524427,
+        "latestMissing": 0
+    },
+    "klines.AMPUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 10:40:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 652961,
+        "latestMissing": 0
+    },
+    "klines.ANKRUSDT.1m": {
+        "checkedDataStart": "2019-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-08-01 00:00:00+00:00",
+        "latestExpected": 1881627,
+        "latestMissing": 2989
+    },
+    "klines.ANTUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:39:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309960,
+        "latestMissing": 1344
+    },
+    "klines.APEUSDT.1m": {
+        "checkedDataStart": "2022-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-04-01 00:00:00+00:00",
+        "latestExpected": 478768,
+        "latestMissing": 0
+    },
+    "klines.API3USDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 564033,
+        "latestMissing": 0
+    },
+    "klines.APTUSDT.1m": {
+        "checkedDataStart": "2022-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-11-01 00:00:00+00:00",
+        "latestExpected": 170607,
+        "latestMissing": 1
+    },
+    "klines.ARDRUSDT.1m": {
+        "checkedDataStart": "2020-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:41:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-06-01 00:00:00+00:00",
+        "latestExpected": 1442442,
+        "latestMissing": 1554
+    },
+    "klines.ARPAUSDT.1m": {
+        "checkedDataStart": "2019-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-12-01 00:00:00+00:00",
+        "latestExpected": 1706673,
+        "latestMissing": 2246
+    },
+    "klines.ARUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 916516,
+        "latestMissing": 390
+    },
+    "klines.ASRUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1134961,
+        "latestMissing": 993
+    },
+    "klines.ASTRUSDT.1m": {
+        "checkedDataStart": "2022-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-03-01 00:00:00+00:00",
+        "latestExpected": 523397,
+        "latestMissing": 0
+    },
+    "klines.ATAUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 874398,
+        "latestMissing": 390
+    },
+    "klines.ATMUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1134960,
+        "latestMissing": 993
+    },
+    "klines.ATOMUSDT.1m": {
+        "checkedDataStart": "2019-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:13:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-05-01 00:00:00+00:00",
+        "latestExpected": 2013794,
+        "latestMissing": 3650
+    },
+    "klines.AUCTIONUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697218,
+        "latestMissing": 0
+    },
+    "klines.AUDIOUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1221801,
+        "latestMissing": 1344
+    },
+    "klines.AUTOUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962148,
+        "latestMissing": 391
+    },
+    "klines.AVAUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1179621,
+        "latestMissing": 1284
+    },
+    "klines.AVAXUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266433,
+        "latestMissing": 1344
+    },
+    "klines.AXSUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:46:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1178927,
+        "latestMissing": 1284
+    },
+    "klines.BADGERUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:09:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005430,
+        "latestMissing": 824
+    },
+    "klines.BAKEUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:09:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962170,
+        "latestMissing": 391
+    },
+    "klines.BALUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309637,
+        "latestMissing": 1344
+    },
+    "klines.BANDUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1793792,
+        "latestMissing": 2509
+    },
+    "klines.BARUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:22:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962183,
+        "latestMissing": 391
+    },
+    "klines.BATUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:25:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2057306,
+        "latestMissing": 3650
+    },
+    "klines.BCHUSDT.1m": {
+        "checkedDataStart": "2019-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-12-01 00:00:00+00:00",
+        "latestExpected": 1705647,
+        "latestMissing": 2246
+    },
+    "klines.BELUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:24:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267465,
+        "latestMissing": 1344
+    },
+    "klines.BETAUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:07:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697268,
+        "latestMissing": 1
+    },
+    "klines.BICOUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:46:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608207,
+        "latestMissing": 0
+    },
+    "klines.BIFIUSDT.1m": {
+        "checkedDataStart": "2022-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-05-01 00:00:00+00:00",
+        "latestExpected": 436588,
+        "latestMissing": 0
+    },
+    "klines.BLZUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1310659,
+        "latestMissing": 1344
+    },
+    "klines.BNBUSDT.1m": {
+        "checkedDataStart": "2017-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-12-01 00:00:00+00:00",
+        "latestExpected": 2756670,
+        "latestMissing": 26077
+    },
+    "klines.BNTUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:02:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1575663,
+        "latestMissing": 1832
+    },
+    "klines.BNXUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:16:00+00:00",
+        "integral": "No"
+    },
+    "klines.BONDUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:23:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 829704,
+        "latestMissing": 391
+    },
+    "klines.BSWUSDT.1m": {
+        "checkedDataStart": "2022-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-04-01 00:00:00+00:00",
+        "latestExpected": 479820,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.15m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2021-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 21:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 42049,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.1d": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1170,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.1h": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-16 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-09-01 00:00:00+00:00",
+        "latestExpected": 48526,
+        "latestMissing": 126
+    },
+    "klines.BTCUSDT.1m": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-16 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1683361,
+        "latestMissing": 2245
+    },
+    "klines.BTCUSDT.1w": {
+        "checkedDataStart": "2021-01-28 00:00:00+00:00",
+        "checkedFrom": "2017-02-23 00:00:00+00:00",
+        "checkedTo": "2023-03-09 00:00:00+00:00",
+        "integral": "No"
+    },
+    "klines.BTCUSDT.2h": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-09-01 00:00:00+00:00",
+        "latestExpected": 24229,
+        "latestMissing": 52
+    },
+    "klines.BTCUSDT.30m": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 49,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.3d": {
+        "checkedDataStart": "2017-08-31 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "No"
+    },
+    "klines.BTCUSDT.3m": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 481,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.4h": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-09-01 00:00:00+00:00",
+        "latestExpected": 12115,
+        "latestMissing": 17
+    },
+    "klines.BTCUSDT.5m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 289,
+        "latestMissing": 0
+    },
+    "klines.BTCUSDT.6h": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-09-01 00:00:00+00:00",
+        "latestExpected": 8077,
+        "latestMissing": 6
+    },
+    "klines.BTSUSDT.15m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2021-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-10 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 41569,
+        "latestMissing": 0
+    },
+    "klines.BTSUSDT.1d": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1110,
+        "latestMissing": 0
+    },
+    "klines.BTSUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1596961,
+        "latestMissing": 1831
+    },
+    "klines.BTSUSDT.30m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 49,
+        "latestMissing": 0
+    },
+    "klines.BTSUSDT.3m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 481,
+        "latestMissing": 0
+    },
+    "klines.BTSUSDT.5m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 289,
+        "latestMissing": 0
+    },
+    "klines.BURGERUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:40:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962141,
+        "latestMissing": 391
+    },
+    "klines.BUSDUSDT.15m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2021-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-10 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 41569,
+        "latestMissing": 0
+    },
+    "klines.BUSDUSDT.1d": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1170,
+        "latestMissing": 0
+    },
+    "klines.BUSDUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1683361,
+        "latestMissing": 2246
+    },
+    "klines.BUSDUSDT.30m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 49,
+        "latestMissing": 0
+    },
+    "klines.BUSDUSDT.3d": {
+        "checkedDataStart": "2022-04-01 00:00:00+00:00",
+        "checkedFrom": "2022-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "No"
+    },
+    "klines.BUSDUSDT.3m": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 481,
+        "latestMissing": 0
+    },
+    "klines.BUSDUSDT.5m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 289,
+        "latestMissing": 0
+    },
+    "klines.C98USDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 829756,
+        "latestMissing": 391
+    },
+    "klines.CAKEUSDT.1m": {
+        "checkedDataStart": "2021-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-03-01 00:00:00+00:00",
+        "latestExpected": 1048819,
+        "latestMissing": 914
+    },
+    "klines.CELOUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1089628,
+        "latestMissing": 993
+    },
+    "klines.CELRUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2057001,
+        "latestMissing": 3650
+    },
+    "klines.CFXUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1004220,
+        "latestMissing": 824
+    },
+    "klines.CHESSUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:13:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697214,
+        "latestMissing": 0
+    },
+    "klines.CHRUSDT.1m": {
+        "checkedDataStart": "2020-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-06-01 00:00:00+00:00",
+        "latestExpected": 1442434,
+        "latestMissing": 1555
+    },
+    "klines.CHZUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1793808,
+        "latestMissing": 2509
+    },
+    "klines.CITYUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:42:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653983,
+        "latestMissing": 0
+    },
+    "klines.CKBUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1089336,
+        "latestMissing": 993
+    },
+    "klines.CLVUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 829709,
+        "latestMissing": 391
+    },
+    "klines.COCOSUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1836694,
+        "latestMissing": 8269
+    },
+    "klines.COMPUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1398930,
+        "latestMissing": 1344
+    },
+    "klines.COSUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837652,
+        "latestMissing": 2509
+    },
+    "klines.COTIUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:41:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1574922,
+        "latestMissing": 1833
+    },
+    "klines.CRVUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309458,
+        "latestMissing": 1344
+    },
+    "klines.CTKUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:03:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1222864,
+        "latestMissing": 1344
+    },
+    "klines.CTSIUSDT.1m": {
+        "checkedDataStart": "2020-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:40:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-05-01 00:00:00+00:00",
+        "latestExpected": 1487081,
+        "latestMissing": 1555
+    },
+    "klines.CTXCUSDT.1m": {
+        "checkedDataStart": "2019-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-12-01 00:00:00+00:00",
+        "latestExpected": 1706721,
+        "latestMissing": 2246
+    },
+    "klines.CVPUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:55:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697196,
+        "latestMissing": 1
+    },
+    "klines.CVXUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608667,
+        "latestMissing": 0
+    },
+    "klines.DARUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 654073,
+        "latestMissing": 0
+    },
+    "klines.DASHUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2056818,
+        "latestMissing": 3650
+    },
+    "klines.DATAUSDT.1m": {
+        "checkedDataStart": "2020-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-05-01 00:00:00+00:00",
+        "latestExpected": 1487730,
+        "latestMissing": 1555
+    },
+    "klines.DCRUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354291,
+        "latestMissing": 1344
+    },
+    "klines.DEGOUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005328,
+        "latestMissing": 824
+    },
+    "klines.DENTUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1836995,
+        "latestMissing": 2509
+    },
+    "klines.DEXEUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:36:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 828997,
+        "latestMissing": 391
+    },
+    "klines.DFUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:45:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741826,
+        "latestMissing": 1
+    },
+    "klines.DGBUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354294,
+        "latestMissing": 1344
+    },
+    "klines.DIAUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:25:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267466,
+        "latestMissing": 1344
+    },
+    "klines.DOCKUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837668,
+        "latestMissing": 2509
+    },
+    "klines.DODOUSDT.1m": {
+        "checkedDataStart": "2021-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:37:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-03-01 00:00:00+00:00",
+        "latestExpected": 1049318,
+        "latestMissing": 914
+    },
+    "klines.DOGEUSDT.1m": {
+        "checkedDataStart": "2019-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 17:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-08-01 00:00:00+00:00",
+        "latestExpected": 1881678,
+        "latestMissing": 2989
+    },
+    "klines.DOTUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309469,
+        "latestMissing": 1344
+    },
+    "klines.DREPUSDT.1m": {
+        "checkedDataStart": "2020-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:52:00+00:00",
+        "integral": "No"
+    },
+    "klines.DUSKUSDT.1m": {
+        "checkedDataStart": "2019-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:54:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-08-01 00:00:00+00:00",
+        "latestExpected": 1882375,
+        "latestMissing": 2989
+    },
+    "klines.DYDXUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:24:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741145,
+        "latestMissing": 1
+    },
+    "klines.EGLDUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266448,
+        "latestMissing": 1344
+    },
+    "klines.ELFUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 740856,
+        "latestMissing": 1
+    },
+    "klines.ENJUSDT.1m": {
+        "checkedDataStart": "2019-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:38:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-05-01 00:00:00+00:00",
+        "latestExpected": 2014119,
+        "latestMissing": 3650
+    },
+    "klines.ENSUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:57:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 652858,
+        "latestMissing": 0
+    },
+    "klines.EOSUSDT.1m": {
+        "checkedDataStart": "2018-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-06-01 00:00:00+00:00",
+        "latestExpected": 2494768,
+        "latestMissing": 5802
+    },
+    "klines.EPXUSDT.1m": {
+        "checkedDataStart": "2022-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:45:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-06-01 00:00:00+00:00",
+        "latestExpected": 391906,
+        "latestMissing": 0
+    },
+    "klines.ERNUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 874350,
+        "latestMissing": 391
+    },
+    "klines.ETCUSDT.1m": {
+        "checkedDataStart": "2018-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:14:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-07-01 00:00:00+00:00",
+        "latestExpected": 2451555,
+        "latestMissing": 5097
+    },
+    "klines.ETHUSDT.15m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2021-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-16 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 42049,
+        "latestMissing": 0
+    },
+    "klines.ETHUSDT.1d": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1170,
+        "latestMissing": 0
+    },
+    "klines.ETHUSDT.1m": {
+        "checkedDataStart": "2017-09-01 00:00:00+00:00",
+        "checkedFrom": "2000-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1683361,
+        "latestMissing": 2246
+    },
+    "klines.ETHUSDT.30m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 49,
+        "latestMissing": 0
+    },
+    "klines.ETHUSDT.3d": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2022-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "No"
+    },
+    "klines.ETHUSDT.3m": {
+        "checkedDataStart": "2018-03-01 00:00:00+00:00",
+        "checkedFrom": "2018-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-13 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 481,
+        "latestMissing": 0
+    },
+    "klines.ETHUSDT.5m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 289,
+        "latestMissing": 0
+    },
+    "klines.FARMUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:41:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785022,
+        "latestMissing": 121
+    },
+    "klines.FETUSDT.1m": {
+        "checkedDataStart": "2019-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-03-01 00:00:00+00:00",
+        "latestExpected": 2101651,
+        "latestMissing": 4010
+    },
+    "klines.FIDAUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:46:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741827,
+        "latestMissing": 1
+    },
+    "klines.FILUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:14:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1221795,
+        "latestMissing": 1344
+    },
+    "klines.FIOUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267411,
+        "latestMissing": 1344
+    },
+    "klines.FIROUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1090294,
+        "latestMissing": 993
+    },
+    "klines.FISUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:10:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005371,
+        "latestMissing": 824
+    },
+    "klines.FLMUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:04:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267445,
+        "latestMissing": 1344
+    },
+    "klines.FLOWUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 828688,
+        "latestMissing": 391
+    },
+    "klines.FLUXUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608208,
+        "latestMissing": 0
+    },
+    "klines.FORTHUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:08:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962229,
+        "latestMissing": 391
+    },
+    "klines.FORUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:53:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785034,
+        "latestMissing": 121
+    },
+    "klines.FRONTUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:48:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697189,
+        "latestMissing": 1
+    },
+    "klines.FTMUSDT.1m": {
+        "checkedDataStart": "2019-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-07-01 00:00:00+00:00",
+        "latestExpected": 1925968,
+        "latestMissing": 2989
+    },
+    "klines.FUNUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:02:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837743,
+        "latestMissing": 2509
+    },
+    "klines.FXSUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608179,
+        "latestMissing": 0
+    },
+    "klines.GALAUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741149,
+        "latestMissing": 1
+    },
+    "klines.GALUSDT.1m": {
+        "checkedDataStart": "2022-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:40:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-06-01 00:00:00+00:00",
+        "latestExpected": 391241,
+        "latestMissing": 0
+    },
+    "klines.GHSTUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:10:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785111,
+        "latestMissing": 121
+    },
+    "klines.GLMRUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 564031,
+        "latestMissing": 0
+    },
+    "klines.GMTUSDT.1m": {
+        "checkedDataStart": "2022-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:48:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-04-01 00:00:00+00:00",
+        "latestExpected": 478609,
+        "latestMissing": 0
+    },
+    "klines.GMXUSDT.1m": {
+        "checkedDataStart": "2022-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-11-01 00:00:00+00:00",
+        "latestExpected": 170460,
+        "latestMissing": 1
+    },
+    "klines.GNOUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 784350,
+        "latestMissing": 121
+    },
+    "klines.GRTUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1133968,
+        "latestMissing": 993
+    },
+    "klines.GTCUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 873321,
+        "latestMissing": 390
+    },
+    "klines.HARDUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:36:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1179577,
+        "latestMissing": 1284
+    },
+    "klines.HBARUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1793487,
+        "latestMissing": 2509
+    },
+    "klines.HFTUSDT.1m": {
+        "checkedDataStart": "2022-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-01 00:00:00+00:00",
+        "latestExpected": 127713,
+        "latestMissing": 1
+    },
+    "klines.HIFIUSDT.1m": {
+        "checkedDataStart": "2023-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:11:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-01 00:00:00+00:00",
+        "latestExpected": 39132,
+        "latestMissing": 0
+    },
+    "klines.HIGHUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:55:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609416,
+        "latestMissing": 0
+    },
+    "klines.HIVEUSDT.1m": {
+        "checkedDataStart": "2020-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-05-01 00:00:00+00:00",
+        "latestExpected": 1486776,
+        "latestMissing": 1555
+    },
+    "klines.HOOKUSDT.1m": {
+        "checkedDataStart": "2023-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-01-01 00:00:00+00:00",
+        "latestExpected": 83075,
+        "latestMissing": 1
+    },
+    "klines.HOTUSDT.1m": {
+        "checkedDataStart": "2019-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-03-01 00:00:00+00:00",
+        "latestExpected": 2101651,
+        "latestMissing": 4009
+    },
+    "klines.ICPUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 916528,
+        "latestMissing": 390
+    },
+    "klines.ICXUSDT.1m": {
+        "checkedDataStart": "2018-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-07-01 00:00:00+00:00",
+        "latestExpected": 2451872,
+        "latestMissing": 5097
+    },
+    "klines.IDEXUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741856,
+        "latestMissing": 1
+    },
+    "klines.ILVUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 740855,
+        "latestMissing": 1
+    },
+    "klines.IMXUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 563539,
+        "latestMissing": 0
+    },
+    "klines.INJUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1222110,
+        "latestMissing": 1343
+    },
+    "klines.IOSTUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:49:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2056850,
+        "latestMissing": 3650
+    },
+    "klines.IOTAUSDT.1m": {
+        "checkedDataStart": "2018-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-06-01 00:00:00+00:00",
+        "latestExpected": 2494578,
+        "latestMissing": 5802
+    },
+    "klines.IOTXUSDT.1m": {
+        "checkedDataStart": "2019-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-12-01 00:00:00+00:00",
+        "latestExpected": 1705951,
+        "latestMissing": 2246
+    },
+    "klines.IRISUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1310671,
+        "latestMissing": 1343
+    },
+    "klines.JASMYUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653308,
+        "latestMissing": 0
+    },
+    "klines.JOEUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:58:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609419,
+        "latestMissing": 0
+    },
+    "klines.JSTUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309951,
+        "latestMissing": 1344
+    },
+    "klines.JUVUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:57:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1134958,
+        "latestMissing": 993
+    },
+    "klines.KAVAUSDT.1m": {
+        "checkedDataStart": "2019-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-11-01 00:00:00+00:00",
+        "latestExpected": 1748850,
+        "latestMissing": 2509
+    },
+    "klines.KDAUSDT.1m": {
+        "checkedDataStart": "2022-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 10:41:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-04-01 00:00:00+00:00",
+        "latestExpected": 478722,
+        "latestMissing": 0
+    },
+    "klines.KLAYUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 873648,
+        "latestMissing": 391
+    },
+    "klines.KMDUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1310661,
+        "latestMissing": 1344
+    },
+    "klines.KNCUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1398935,
+        "latestMissing": 1344
+    },
+    "klines.KP3RUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 654018,
+        "latestMissing": 0
+    },
+    "klines.KSMUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266437,
+        "latestMissing": 1344
+    },
+    "klines.LAZIOUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:39:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697180,
+        "latestMissing": 0
+    },
+    "klines.LDOUSDT.1m": {
+        "checkedDataStart": "2022-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-06-01 00:00:00+00:00",
+        "latestExpected": 390927,
+        "latestMissing": 0
+    },
+    "klines.LEVERUSDT.1m": {
+        "checkedDataStart": "2022-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:22:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-08-01 00:00:00+00:00",
+        "latestExpected": 304103,
+        "latestMissing": 0
+    },
+    "klines.LINAUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:07:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005368,
+        "latestMissing": 824
+    },
+    "klines.LINKUSDT.1m": {
+        "checkedDataStart": "2019-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:13:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-02-01 00:00:00+00:00",
+        "latestExpected": 2141954,
+        "latestMissing": 4010
+    },
+    "klines.LITUSDT.1m": {
+        "checkedDataStart": "2021-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:08:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-03-01 00:00:00+00:00",
+        "latestExpected": 1050009,
+        "latestMissing": 914
+    },
+    "klines.LOKAUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 564736,
+        "latestMissing": 0
+    },
+    "klines.LPTUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 916536,
+        "latestMissing": 390
+    },
+    "klines.LRCUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:38:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1399239,
+        "latestMissing": 1343
+    },
+    "klines.LSKUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1574616,
+        "latestMissing": 1831
+    },
+    "klines.LTCUSDT.1m": {
+        "checkedDataStart": "2018-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:11:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-01-01 00:00:00+00:00",
+        "latestExpected": 2712192,
+        "latestMissing": 7986
+    },
+    "klines.LTOUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:07:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1575608,
+        "latestMissing": 1832
+    },
+    "klines.LUNAUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309948,
+        "latestMissing": 27584
+    },
+    "klines.LUNCUSDT.1m": {
+        "checkedDataStart": "2022-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:23:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-10-01 00:00:00+00:00",
+        "latestExpected": 215244,
+        "latestMissing": 1
+    },
+    "klines.MAGICUSDT.1m": {
+        "checkedDataStart": "2023-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-01-01 00:00:00+00:00",
+        "latestExpected": 82756,
+        "latestMissing": 0
+    },
+    "klines.MANAUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309648,
+        "latestMissing": 1344
+    },
+    "klines.MASKUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 10:41:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 916482,
+        "latestMissing": 390
+    },
+    "klines.MATICUSDT.1m": {
+        "checkedDataStart": "2019-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-05-01 00:00:00+00:00",
+        "latestExpected": 2013629,
+        "latestMissing": 3650
+    },
+    "klines.MBLUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1575677,
+        "latestMissing": 1833
+    },
+    "klines.MBOXUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:52:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785093,
+        "latestMissing": 121
+    },
+    "klines.MCUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608361,
+        "latestMissing": 0
+    },
+    "klines.MDTUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:14:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1399935,
+        "latestMissing": 1344
+    },
+    "klines.MDXUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:54:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 917575,
+        "latestMissing": 390
+    },
+    "klines.MINAUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 783859,
+        "latestMissing": 121
+    },
+    "klines.MKRUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354099,
+        "latestMissing": 1344
+    },
+    "klines.MLNUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:21:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 829762,
+        "latestMissing": 391
+    },
+    "klines.MOBUSDT.1m": {
+        "checkedDataStart": "2022-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-05-01 00:00:00+00:00",
+        "latestExpected": 435561,
+        "latestMissing": 0
+    },
+    "klines.MOVRUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:13:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 654074,
+        "latestMissing": 0
+    },
+    "klines.MTLUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:57:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837738,
+        "latestMissing": 2509
+    },
+    "klines.MULTIUSDT.1m": {
+        "checkedDataStart": "2022-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-05-01 00:00:00+00:00",
+        "latestExpected": 435576,
+        "latestMissing": 0
+    },
+    "klines.NEARUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1221807,
+        "latestMissing": 1344
+    },
+    "klines.NEBLUSDT.1m": {
+        "checkedDataStart": "2022-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-11-01 00:00:00+00:00",
+        "latestExpected": 171571,
+        "latestMissing": 1
+    },
+    "klines.NEOUSDT.1m": {
+        "checkedDataStart": "2017-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:23:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2017-12-01 00:00:00+00:00",
+        "latestExpected": 2756844,
+        "latestMissing": 8064
+    },
+    "klines.NEXOUSDT.1m": {
+        "checkedDataStart": "2022-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-05-01 00:00:00+00:00",
+        "latestExpected": 435867,
+        "latestMissing": 0
+    },
+    "klines.NKNUSDT.1m": {
+        "checkedDataStart": "2019-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:56:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-11-01 00:00:00+00:00",
+        "latestExpected": 1749897,
+        "latestMissing": 2509
+    },
+    "klines.NMRUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309956,
+        "latestMissing": 1344
+    },
+    "klines.NULSUSDT.1m": {
+        "checkedDataStart": "2018-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:38:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-08-01 00:00:00+00:00",
+        "latestExpected": 2407899,
+        "latestMissing": 4640
+    },
+    "klines.OCEANUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 10:42:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309603,
+        "latestMissing": 1344
+    },
+    "klines.OGNUSDT.1m": {
+        "checkedDataStart": "2020-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:06:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-02-01 00:00:00+00:00",
+        "latestExpected": 1617427,
+        "latestMissing": 2246
+    },
+    "klines.OGUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1134960,
+        "latestMissing": 993
+    },
+    "klines.OMGUSDT.1m": {
+        "checkedDataStart": "2019-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-05-01 00:00:00+00:00",
+        "latestExpected": 2014112,
+        "latestMissing": 3650
+    },
+    "klines.OMUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:43:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005344,
+        "latestMissing": 824
+    },
+    "klines.ONEUSDT.1m": {
+        "checkedDataStart": "2019-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-07-01 00:00:00+00:00",
+        "latestExpected": 1926269,
+        "latestMissing": 2989
+    },
+    "klines.ONGUSDT.1m": {
+        "checkedDataStart": "2019-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:37:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-03-01 00:00:00+00:00",
+        "latestExpected": 2101958,
+        "latestMissing": 4010
+    },
+    "klines.ONTUSDT.1m": {
+        "checkedDataStart": "2018-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:48:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-07-01 00:00:00+00:00",
+        "latestExpected": 2451409,
+        "latestMissing": 5096
+    },
+    "klines.OOKIUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:49:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609350,
+        "latestMissing": 0
+    },
+    "klines.OPUSDT.1m": {
+        "checkedDataStart": "2022-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-07-01 00:00:00+00:00",
+        "latestExpected": 347538,
+        "latestMissing": 0
+    },
+    "klines.ORNUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:25:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267466,
+        "latestMissing": 1344
+    },
+    "klines.OSMOUSDT.1m": {
+        "checkedDataStart": "2022-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:24:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-11-01 00:00:00+00:00",
+        "latestExpected": 170905,
+        "latestMissing": 1
+    },
+    "klines.OXTUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:10:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267511,
+        "latestMissing": 1344
+    },
+    "klines.PAXGUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:45:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309966,
+        "latestMissing": 1344
+    },
+    "klines.PEOPLEUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 608673,
+        "latestMissing": 0
+    },
+    "klines.PERLUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:58:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837679,
+        "latestMissing": 2509
+    },
+    "klines.PERPUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:14:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005435,
+        "latestMissing": 824
+    },
+    "klines.PHAUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 874368,
+        "latestMissing": 391
+    },
+    "klines.PHBUSDT.1m": {
+        "checkedDataStart": "2022-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:05:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-01 00:00:00+00:00",
+        "latestExpected": 128406,
+        "latestMissing": 1
+    },
+    "klines.PLAUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653001,
+        "latestMissing": 0
+    },
+    "klines.PNTUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:55:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1399916,
+        "latestMissing": 1343
+    },
+    "klines.POLSUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 917554,
+        "latestMissing": 390
+    },
+    "klines.POLYXUSDT.1m": {
+        "checkedDataStart": "2022-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-11-01 00:00:00+00:00",
+        "latestExpected": 170916,
+        "latestMissing": 1
+    },
+    "klines.PONDUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:53:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005414,
+        "latestMissing": 824
+    },
+    "klines.PORTOUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:50:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653991,
+        "latestMissing": 0
+    },
+    "klines.POWRUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:42:00+00:00",
+        "integral": "No"
+    },
+    "klines.PROSUSDT.1m": {
+        "checkedDataStart": "2023-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:54:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-01 00:00:00+00:00",
+        "latestExpected": 39115,
+        "latestMissing": 0
+    },
+    "klines.PSGUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1134936,
+        "latestMissing": 993
+    },
+    "klines.PUNDIXUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 961161,
+        "latestMissing": 391
+    },
+    "klines.PYRUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:42:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653323,
+        "latestMissing": 0
+    },
+    "klines.QIUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:21:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 654022,
+        "latestMissing": 0
+    },
+    "klines.QNTUSDT.1m": {
+        "checkedDataStart": "2021-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-08-01 00:00:00+00:00",
+        "latestExpected": 828688,
+        "latestMissing": 391
+    },
+    "klines.QTUMUSDT.1m": {
+        "checkedDataStart": "2018-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-04-01 00:00:00+00:00",
+        "latestExpected": 2582611,
+        "latestMissing": 5802
+    },
+    "klines.QUICKUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785074,
+        "latestMissing": 121
+    },
+    "klines.RADUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:50:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697251,
+        "latestMissing": 1
+    },
+    "klines.RAREUSDT.1m": {
+        "checkedDataStart": "2021-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-11-01 00:00:00+00:00",
+        "latestExpected": 697232,
+        "latestMissing": 1
+    },
+    "klines.RAYUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:05:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785046,
+        "latestMissing": 121
+    },
+    "klines.REEFUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:04:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1135025,
+        "latestMissing": 993
+    },
+    "klines.REIUSDT.1m": {
+        "checkedDataStart": "2022-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-06-01 00:00:00+00:00",
+        "latestExpected": 391889,
+        "latestMissing": 0
+    },
+    "klines.RENUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:49:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1794530,
+        "latestMissing": 2509
+    },
+    "klines.REQUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:36:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 784357,
+        "latestMissing": 121
+    },
+    "klines.RIFUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1089335,
+        "latestMissing": 31551
+    },
+    "klines.RLCUSDT.1m": {
+        "checkedDataStart": "2019-12-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-12-01 00:00:00+00:00",
+        "latestExpected": 1705656,
+        "latestMissing": 2246
+    },
+    "klines.RNDRUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653010,
+        "latestMissing": 0
+    },
+    "klines.ROSEUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1178908,
+        "latestMissing": 1284
+    },
+    "klines.RPLUSDT.1m": {
+        "checkedDataStart": "2023-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:24:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-01 00:00:00+00:00",
+        "latestExpected": 38125,
+        "latestMissing": 0
+    },
+    "klines.RSRUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309952,
+        "latestMissing": 1343
+    },
+    "klines.RUNEUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 09:01:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266302,
+        "latestMissing": 1344
+    },
+    "klines.RVNUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1793489,
+        "latestMissing": 2509
+    },
+    "klines.SANDUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:22:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309643,
+        "latestMissing": 1344
+    },
+    "klines.SANTOSUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:44:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609345,
+        "latestMissing": 0
+    },
+    "klines.SCRTUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 563721,
+        "latestMissing": 0
+    },
+    "klines.SCUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354128,
+        "latestMissing": 1344
+    },
+    "klines.SFPUSDT.1m": {
+        "checkedDataStart": "2021-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-03-01 00:00:00+00:00",
+        "latestExpected": 1049016,
+        "latestMissing": 914
+    },
+    "klines.SHIBUSDT.1m": {
+        "checkedDataStart": "2021-06-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 17:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-06-01 00:00:00+00:00",
+        "latestExpected": 916879,
+        "latestMissing": 391
+    },
+    "klines.SKLUSDT.1m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-01-01 00:00:00+00:00",
+        "latestExpected": 1133976,
+        "latestMissing": 993
+    },
+    "klines.SLPUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 961161,
+        "latestMissing": 391
+    },
+    "klines.SNXUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:58:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354139,
+        "latestMissing": 1343
+    },
+    "klines.SOLUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 17:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309998,
+        "latestMissing": 1345
+    },
+    "klines.SPELLUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:46:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609407,
+        "latestMissing": 0
+    },
+    "klines.SSVUSDT.1m": {
+        "checkedDataStart": "2023-02-25 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:25:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-25 00:00:00+00:00",
+        "latestExpected": 3866,
+        "latestMissing": 0
+    },
+    "klines.STEEMUSDT.1m": {
+        "checkedDataStart": "2022-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:43:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-05-01 00:00:00+00:00",
+        "latestExpected": 435884,
+        "latestMissing": 0
+    },
+    "klines.STGUSDT.1m": {
+        "checkedDataStart": "2022-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-09-01 00:00:00+00:00",
+        "latestExpected": 258453,
+        "latestMissing": 0
+    },
+    "klines.STMXUSDT.1m": {
+        "checkedDataStart": "2020-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:07:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-07-01 00:00:00+00:00",
+        "latestExpected": 1399988,
+        "latestMissing": 1344
+    },
+    "klines.STORJUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354294,
+        "latestMissing": 1343
+    },
+    "klines.STPTUSDT.1m": {
+        "checkedDataStart": "2020-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:45:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-04-01 00:00:00+00:00",
+        "latestExpected": 1531006,
+        "latestMissing": 1705
+    },
+    "klines.STRAXUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:44:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1179645,
+        "latestMissing": 1283
+    },
+    "klines.STXUSDT.1m": {
+        "checkedDataStart": "2019-11-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:27:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-11-01 00:00:00+00:00",
+        "latestExpected": 1748848,
+        "latestMissing": 2509
+    },
+    "klines.SUNUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267407,
+        "latestMissing": 7103
+    },
+    "klines.SUPERUSDT.1m": {
+        "checkedDataStart": "2021-04-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:15:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-04-01 00:00:00+00:00",
+        "latestExpected": 1005436,
+        "latestMissing": 824
+    },
+    "klines.SUSHIUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266749,
+        "latestMissing": 1343
+    },
+    "klines.SXPUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354293,
+        "latestMissing": 1343
+    },
+    "klines.SYNUSDT.1m": {
+        "checkedDataStart": "2023-02-23 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:31:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-23 00:00:00+00:00",
+        "latestExpected": 6452,
+        "latestMissing": 0
+    },
+    "klines.SYSUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 740841,
+        "latestMissing": 1
+    },
+    "klines.TFUELUSDT.1m": {
+        "checkedDataStart": "2019-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-06-01 00:00:00+00:00",
+        "latestExpected": 1969170,
+        "latestMissing": 3049
+    },
+    "klines.THETAUSDT.1m": {
+        "checkedDataStart": "2019-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:28:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-05-01 00:00:00+00:00",
+        "latestExpected": 2013809,
+        "latestMissing": 3649
+    },
+    "klines.TKOUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:19:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962240,
+        "latestMissing": 391
+    },
+    "klines.TLMUSDT.1m": {
+        "checkedDataStart": "2021-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:01:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-05-01 00:00:00+00:00",
+        "latestExpected": 962222,
+        "latestMissing": 391
+    },
+    "klines.TOMOUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837697,
+        "latestMissing": 2508
+    },
+    "klines.TRBUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:32:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1310613,
+        "latestMissing": 1344
+    },
+    "klines.TROYUSDT.1m": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1661975,
+        "latestMissing": 2246
+    },
+    "klines.TRUUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1090381,
+        "latestMissing": 993
+    },
+    "klines.TRXUSDT.1m": {
+        "checkedDataStart": "2018-07-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-07-01 00:00:00+00:00",
+        "latestExpected": 2451553,
+        "latestMissing": 5097
+    },
+    "klines.TUSDT.1m": {
+        "checkedDataStart": "2022-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:16:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-03-01 00:00:00+00:00",
+        "latestExpected": 523397,
+        "latestMissing": 0
+    },
+    "klines.TVKUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 785053,
+        "latestMissing": 121
+    },
+    "klines.TWTUSDT.1m": {
+        "checkedDataStart": "2021-02-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 09:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-02-01 00:00:00+00:00",
+        "latestExpected": 1089181,
+        "latestMissing": 993
+    },
+    "klines.UMAUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266456,
+        "latestMissing": 1343
+    },
+    "klines.UNFIUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1179574,
+        "latestMissing": 1284
+    },
+    "klines.UNIUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:13:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1266434,
+        "latestMissing": 1344
+    },
+    "klines.UTKUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1222879,
+        "latestMissing": 1344
+    },
+    "klines.VETUSDT.1m": {
+        "checkedDataStart": "2018-08-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-08-01 00:00:00+00:00",
+        "latestExpected": 2406927,
+        "latestMissing": 4640
+    },
+    "klines.VGXUSDT.1m": {
+        "checkedDataStart": "2021-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-12-01 00:00:00+00:00",
+        "latestExpected": 653315,
+        "latestMissing": 0
+    },
+    "klines.VIBUSDT.1m": {
+        "checkedDataStart": "2023-02-25 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:51:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2023-02-25 00:00:00+00:00",
+        "latestExpected": 4552,
+        "latestMissing": 0
+    },
+    "klines.VIDTUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:27:00+00:00",
+        "integral": "No"
+    },
+    "klines.VITEUSDT.1m": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:37:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1661978,
+        "latestMissing": 2246
+    },
+    "klines.VOXELUSDT.1m": {
+        "checkedDataStart": "2022-01-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:36:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 609337,
+        "latestMissing": 0
+    },
+    "klines.VTHOUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:52:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1355333,
+        "latestMissing": 1344
+    },
+    "klines.WANUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:18:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837759,
+        "latestMissing": 2509
+    },
+    "klines.WAVESUSDT.1m": {
+        "checkedDataStart": "2019-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:29:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-02-01 00:00:00+00:00",
+        "latestExpected": 2142270,
+        "latestMissing": 4010
+    },
+    "klines.WAXPUSDT.1m": {
+        "checkedDataStart": "2021-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:35:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-09-01 00:00:00+00:00",
+        "latestExpected": 784056,
+        "latestMissing": 121
+    },
+    "klines.WINGUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:43:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267424,
+        "latestMissing": 1344
+    },
+    "klines.WINUSDT.1m": {
+        "checkedDataStart": "2019-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:51:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-09-01 00:00:00+00:00",
+        "latestExpected": 1837732,
+        "latestMissing": 2509
+    },
+    "klines.WNXMUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:12:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1310713,
+        "latestMissing": 1344
+    },
+    "klines.WOOUSDT.1m": {
+        "checkedDataStart": "2022-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-03-01 00:00:00+00:00",
+        "latestExpected": 523411,
+        "latestMissing": 0
+    },
+    "klines.WRXUSDT.1m": {
+        "checkedDataStart": "2020-03-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:05:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-03-01 00:00:00+00:00",
+        "latestExpected": 1575666,
+        "latestMissing": 1831
+    },
+    "klines.WTCUSDT.1m": {
+        "checkedDataStart": "2020-05-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 03:53:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-05-01 00:00:00+00:00",
+        "latestExpected": 1487754,
+        "latestMissing": 1555
+    },
+    "klines.XECUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741168,
+        "latestMissing": 1
+    },
+    "klines.XEMUSDT.1m": {
+        "checkedDataStart": "2020-12-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:44:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-12-01 00:00:00+00:00",
+        "latestExpected": 1178925,
+        "latestMissing": 1284
+    },
+    "klines.XLMUSDT.1m": {
+        "checkedDataStart": "2018-06-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:26:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2018-06-01 00:00:00+00:00",
+        "latestExpected": 2494767,
+        "latestMissing": 5801
+    },
+    "klines.XMRUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:14:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2056995,
+        "latestMissing": 3649
+    },
+    "klines.XNOUSDT.1m": {
+        "checkedDataStart": "2022-02-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:33:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-02-01 00:00:00+00:00",
+        "latestExpected": 564034,
+        "latestMissing": 0
+    },
+    "klines.XRPUSDT.15m": {
+        "checkedDataStart": "2021-01-01 00:00:00+00:00",
+        "checkedFrom": "2021-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-10 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-01-01 00:00:00+00:00",
+        "latestExpected": 41569,
+        "latestMissing": 0
+    },
+    "klines.XRPUSDT.1d": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1170,
+        "latestMissing": 0
+    },
+    "klines.XRPUSDT.1m": {
+        "checkedDataStart": "2018-06-01 00:00:00+00:00",
+        "checkedFrom": "2000-03-01 00:00:00+00:00",
+        "checkedTo": "2023-03-15 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-01-01 00:00:00+00:00",
+        "latestExpected": 1683361,
+        "latestMissing": 2245
+    },
+    "klines.XRPUSDT.30m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 49,
+        "latestMissing": 0
+    },
+    "klines.XRPUSDT.3m": {
+        "checkedDataStart": "2020-01-01 00:00:00+00:00",
+        "checkedFrom": "2020-01-01 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 481,
+        "latestMissing": 0
+    },
+    "klines.XRPUSDT.5m": {
+        "checkedDataStart": "2022-12-31 00:00:00+00:00",
+        "checkedFrom": "2022-12-31 00:00:00+00:00",
+        "checkedTo": "2023-01-01 00:00:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2022-12-31 00:00:00+00:00",
+        "latestExpected": 289,
+        "latestMissing": 0
+    },
+    "klines.XTZUSDT.1m": {
+        "checkedDataStart": "2019-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 16:47:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-10-01 00:00:00+00:00",
+        "latestExpected": 1793808,
+        "latestMissing": 2509
+    },
+    "klines.XVGUSDT.1m": {
+        "checkedDataStart": "2021-07-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:30:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-07-01 00:00:00+00:00",
+        "latestExpected": 874351,
+        "latestMissing": 390
+    },
+    "klines.XVSUSDT.1m": {
+        "checkedDataStart": "2020-11-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:59:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-11-01 00:00:00+00:00",
+        "latestExpected": 1222860,
+        "latestMissing": 1344
+    },
+    "klines.YFIIUSDT.1m": {
+        "checkedDataStart": "2020-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 04:06:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-10-01 00:00:00+00:00",
+        "latestExpected": 1267447,
+        "latestMissing": 1344
+    },
+    "klines.YFIUSDT.1m": {
+        "checkedDataStart": "2020-09-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:20:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-09-01 00:00:00+00:00",
+        "latestExpected": 1309641,
+        "latestMissing": 1343
+    },
+    "klines.YGGUSDT.1m": {
+        "checkedDataStart": "2021-10-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-28 05:11:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2021-10-01 00:00:00+00:00",
+        "latestExpected": 741912,
+        "latestMissing": 1
+    },
+    "klines.ZECUSDT.1m": {
+        "checkedDataStart": "2019-04-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:17:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-04-01 00:00:00+00:00",
+        "latestExpected": 2056818,
+        "latestMissing": 3650
+    },
+    "klines.ZENUSDT.1m": {
+        "checkedDataStart": "2020-08-01 00:00:00+00:00",
+        "checkedFrom": "2017-07-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 11:34:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2020-08-01 00:00:00+00:00",
+        "latestExpected": 1354295,
+        "latestMissing": 1344
+    },
+    "klines.ZILUSDT.1m": {
+        "checkedDataStart": "2019-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 09:01:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-03-01 00:00:00+00:00",
+        "latestExpected": 2101502,
+        "latestMissing": 4009
+    },
+    "klines.ZRXUSDT.1m": {
+        "checkedDataStart": "2019-03-01 00:00:00+00:00",
+        "checkedFrom": "2014-01-01 00:00:00+00:00",
+        "checkedTo": "2023-02-27 08:49:00+00:00",
+        "integral": "Yes",
+        "latestDataStart": "2019-03-01 00:00:00+00:00",
+        "latestExpected": 2101490,
+        "latestMissing": 4009
+    }
+}

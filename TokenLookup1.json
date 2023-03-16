@@ -1,0 +1,257 @@
+{
+    "klines.1INCHUSDT.1m": {
+        "start": "2021-01-01 00:00:00"
+    },
+    "klines.AAVEUSDT.1m": {
+        "start": "2020-11-01 00:00:00"
+    },
+    "klines.ADAUSDT.1m": {
+        "start": "2018-05-01 00:00:00"
+    },
+    "klines.ALGOUSDT.1m": {
+        "start": "2019-07-01 00:00:00"
+    },
+    "klines.ALICEUSDT.1m": {
+        "start": "2021-04-01 00:00:00"
+    },
+    "klines.ANKRUSDT.1m": {
+        "start": "2019-08-01 00:00:00"
+    },
+    "klines.APEUSDT.1m": {
+        "start": "2022-04-01 00:00:00"
+    },
+    "klines.APTUSDT.1m": {
+        "start": "2022-11-01 00:00:00"
+    },
+    "klines.ATOMUSDT.1m": {
+        "start": "2019-05-01 00:00:00"
+    },
+    "klines.AVAXUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.AXSUSDT.1m": {
+        "start": "2020-12-01 00:00:00"
+    },
+    "klines.BATUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.BCHUSDT.1m": {
+        "start": "2019-12-01 00:00:00"
+    },
+    "klines.BNBUSDT.1m": {
+        "start": "2017-11-06 03:54:00"
+    },
+    "klines.BNXUSDT.1m": {
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.BTCUSDT.1m": {
+        "start": "2017-08-17 04:00:00"
+    },
+    "klines.BUSDUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.CAKEUSDT.1m": {
+        "start": "2021-03-01 00:00:00"
+    },
+    "klines.CELOUSDT.1m": {
+        "start": "2021-02-01 00:00:00"
+    },
+    "klines.CFXUSDT.1m": {
+        "start": "2021-04-01 00:00:00"
+    },
+    "klines.CHZUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.COMPUSDT.1m": {
+        "start": "2020-07-01 00:00:00"
+    },
+    "klines.CRVUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.CVXUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.DASHUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.DOGEUSDT.1m": {
+        "start": "2019-08-01 00:00:00"
+    },
+    "klines.DOTUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.DYDXUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.EGLDUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.ENJUSDT.1m": {
+        "start": "2019-05-01 00:00:00"
+    },
+    "klines.EOSUSDT.1m": {
+        "start": "2018-06-01 00:00:00"
+    },
+    "klines.ETCUSDT.1m": {
+        "start": "2018-07-01 00:00:00"
+    },
+    "klines.ETHUSDT.1m": {
+        "start": "2017-09-01 00:00:00"
+    },
+    "klines.FILUSDT.1m": {
+        "start": "2020-11-01 00:00:00"
+    },
+    "klines.FLOWUSDT.1m": {
+        "start": "2021-08-01 00:00:00"
+    },
+    "klines.FTMUSDT.1m": {
+        "start": "2019-07-01 00:00:00"
+    },
+    "klines.FXSUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.GMXUSDT.1m": {
+        "start": "2022-11-01 00:00:00"
+    },
+    "klines.GRTUSDT.1m": {
+        "start": "2021-01-01 00:00:00"
+    },
+    "klines.HBARUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.HOTUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    },
+    "klines.ICPUSDT.1m": {
+        "start": "2021-06-01 00:00:00"
+    },
+    "klines.IMXUSDT.1m": {
+        "start": "2022-02-01 00:00:00"
+    },
+    "klines.IOTAUSDT.1m": {
+        "start": "2018-06-01 00:00:00"
+    },
+    "klines.KAVAUSDT.1m": {
+        "start": "2019-11-01 00:00:00"
+    },
+    "klines.KLAYUSDT.1m": {
+        "start": "2021-07-01 00:00:00"
+    },
+    "klines.LDOUSDT.1m": {
+        "start": "2022-06-01 00:00:00"
+    },
+    "klines.LINKUSDT.1m": {
+        "start": "2019-02-01 00:00:00"
+    },
+    "klines.LRCUSDT.1m": {
+        "start": "2020-07-01 00:00:00"
+    },
+    "klines.LTCUSDT.1m": {
+        "start": "2018-01-01 00:00:00"
+    },
+    "klines.LUNAUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.LUNCUSDT.1m": {
+        "start": "2022-10-01 00:00:00"
+    },
+    "klines.MANAUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.MATICUSDT.1m": {
+        "start": "2019-04-26 15:00:00"
+    },
+    "klines.MINAUSDT.1m": {
+        "start": "2021-09-01 00:00:00"
+    },
+    "klines.MKRUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.NEARUSDT.1m": {
+        "start": "2020-11-01 00:00:00"
+    },
+    "klines.NEOUSDT.1m": {
+        "start": "2017-12-01 00:00:00"
+    },
+    "klines.NEXOUSDT.1m": {
+        "start": "2022-05-01 00:00:00"
+    },
+    "klines.OPUSDT.1m": {
+        "start": "2022-07-01 00:00:00"
+    },
+    "klines.OSMOUSDT.1m": {
+        "start": "2022-11-01 00:00:00"
+    },
+    "klines.PAXGUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.QNTUSDT.1m": {
+        "start": "2021-08-01 00:00:00"
+    },
+    "klines.ROSEUSDT.1m": {
+        "start": "2020-12-01 00:00:00"
+    },
+    "klines.RUNEUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.RVNUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.SANDUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.SHIBUSDT.1m": {
+        "start": "2021-06-01 00:00:00"
+    },
+    "klines.SNXUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.SOLUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.STXUSDT.1m": {
+        "start": "2019-11-01 00:00:00"
+    },
+    "klines.TFUELUSDT.1m": {
+        "start": "2019-06-01 00:00:00"
+    },
+    "klines.THETAUSDT.1m": {
+        "start": "2019-05-01 00:00:00"
+    },
+    "klines.TRXUSDT.1m": {
+        "start": "2018-07-01 00:00:00"
+    },
+    "klines.TWTUSDT.1m": {
+        "start": "2021-02-01 00:00:00"
+    },
+    "klines.UNIUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.VETUSDT.1m": {
+        "start": "2018-08-01 00:00:00"
+    },
+    "klines.XECUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.XEMUSDT.1m": {
+        "start": "2020-12-01 00:00:00"
+    },
+    "klines.XLMUSDT.1m": {
+        "start": "2018-06-01 00:00:00"
+    },
+    "klines.XMRUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.XRPUSDT.1m": {
+        "start": "2018-06-01 00:00:00"
+    },
+    "klines.XTZUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.ZECUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.ZILUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    }
+}

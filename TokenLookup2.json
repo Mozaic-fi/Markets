@@ -1,0 +1,303 @@
+{
+    "klines.ACHUSDT.1m": {
+        "start": "2022-02-01 00:00:00"
+    },
+    "klines.AGIXUSDT.1m": {
+        "integral": "No"
+    },
+    "klines.AMPUSDT.1m": {
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.ANKRUSDT.1m": {
+        "start": "2019-08-01 00:00:00"
+    },
+    "klines.ARUSDT.1m": {
+        "start": "2021-06-01 00:00:00"
+    },
+    "klines.ASTRUSDT.1m": {
+        "start": "2022-03-01 00:00:00"
+    },
+    "klines.AUDIOUSDT.1m": {
+        "start": "2020-11-01 00:00:00"
+    },
+    "klines.BALUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.BANDUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.BATUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.BICOUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.BNXUSDT.1m": {
+        "integral": "No",
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.CAKEUSDT.1m": {
+        "start": "2021-03-01 00:00:00"
+    },
+    "klines.CELOUSDT.1m": {
+        "start": "2021-02-01 00:00:00"
+    },
+    "klines.CELRUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.CFXUSDT.1m": {
+        "start": "2021-04-01 00:00:00"
+    },
+    "klines.CKBUSDT.1m": {
+        "start": "2021-02-01 00:00:00"
+    },
+    "klines.COCOSUSDT.1m": {
+        "start": "2019-09-01 00:00:00"
+    },
+    "klines.COMPUSDT.1m": {
+        "start": "2020-07-01 00:00:00"
+    },
+    "klines.CRVUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.CVXUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.DASHUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.DCRUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.DGBUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.DYDXUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.ELFUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.ENJUSDT.1m": {
+        "start": "2019-05-01 00:00:00"
+    },
+    "klines.ENSUSDT.1m": {
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.FETUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    },
+    "klines.FLUXUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.FXSUSDT.1m": {
+        "start": "2022-01-01 00:00:00"
+    },
+    "klines.GALAUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.GLMRUSDT.1m": {
+        "start": "2022-02-01 00:00:00"
+    },
+    "klines.GMTUSDT.1m": {
+        "start": "2022-04-01 00:00:00"
+    },
+    "klines.GMXUSDT.1m": {
+        "start": "2022-11-01 00:00:00"
+    },
+    "klines.GNOUSDT.1m": {
+        "start": "2021-09-01 00:00:00"
+    },
+    "klines.HIVEUSDT.1m": {
+        "start": "2020-05-01 00:00:00"
+    },
+    "klines.HOTUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    },
+    "klines.ICXUSDT.1m": {
+        "start": "2018-07-01 00:00:00"
+    },
+    "klines.ILVUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.IMXUSDT.1m": {
+        "start": "2022-02-01 00:00:00"
+    },
+    "klines.INJUSDT.1m": {
+        "start": "2020-11-01 00:00:00"
+    },
+    "klines.IOSTUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.IOTAUSDT.1m": {
+        "start": "2018-06-01 00:00:00"
+    },
+    "klines.IOTXUSDT.1m": {
+        "start": "2019-12-01 00:00:00"
+    },
+    "klines.JASMYUSDT.1m": {
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.JSTUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.KAVAUSDT.1m": {
+        "start": "2019-11-01 00:00:00"
+    },
+    "klines.KDAUSDT.1m": {
+        "start": "2022-04-01 00:00:00"
+    },
+    "klines.KNCUSDT.1m": {
+        "start": "2020-07-01 00:00:00"
+    },
+    "klines.KSMUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.LPTUSDT.1m": {
+        "start": "2021-06-01 00:00:00"
+    },
+    "klines.LRCUSDT.1m": {
+        "start": "2020-07-01 00:00:00"
+    },
+    "klines.LSKUSDT.1m": {
+        "start": "2020-03-01 00:00:00"
+    },
+    "klines.LUNAUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.MAGICUSDT.1m": {
+        "start": "2023-01-01 00:00:00"
+    },
+    "klines.MASKUSDT.1m": {
+        "start": "2021-06-01 00:00:00"
+    },
+    "klines.MINAUSDT.1m": {
+        "start": "2021-09-01 00:00:00"
+    },
+    "klines.MKRUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.MOBUSDT.1m": {
+        "start": "2022-05-01 00:00:00"
+    },
+    "klines.MULTIUSDT.1m": {
+        "start": "2022-05-01 00:00:00"
+    },
+    "klines.NEXOUSDT.1m": {
+        "start": "2022-05-01 00:00:00"
+    },
+    "klines.OCEANUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.OMGUSDT.1m": {
+        "start": "2019-05-01 00:00:00"
+    },
+    "klines.ONEUSDT.1m": {
+        "start": "2019-07-01 00:00:00"
+    },
+    "klines.ONTUSDT.1m": {
+        "start": "2018-07-01 00:00:00"
+    },
+    "klines.OPUSDT.1m": {
+        "start": "2022-07-01 00:00:00"
+    },
+    "klines.OSMOUSDT.1m": {
+        "start": "2022-11-01 00:00:00"
+    },
+    "klines.PAXGUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.QTUMUSDT.1m": {
+        "start": "2018-04-01 00:00:00"
+    },
+    "klines.RLCUSDT.1m": {
+        "start": "2019-12-01 00:00:00"
+    },
+    "klines.RNDRUSDT.1m": {
+        "start": "2021-12-01 00:00:00"
+    },
+    "klines.ROSEUSDT.1m": {
+        "start": "2020-12-01 00:00:00"
+    },
+    "klines.RSRUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.RUNEUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.RVNUSDT.1m": {
+        "start": "2019-10-01 00:00:00"
+    },
+    "klines.SCUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.SFPUSDT.1m": {
+        "start": "2021-03-01 00:00:00"
+    },
+    "klines.SKLUSDT.1m": {
+        "start": "2021-01-01 00:00:00"
+    },
+    "klines.SNXUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.SSVUSDT.1m": {
+        "integral": "No"
+    },
+    "klines.STGUSDT.1m": {
+        "start": "2022-09-01 00:00:00"
+    },
+    "klines.STORJUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.SUSHIUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.SXPUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.SYNUSDT.1m": {
+        "integral": "No"
+    },
+    "klines.TFUELUSDT.1m": {
+        "start": "2019-06-01 00:00:00"
+    },
+    "klines.TUSDT.1m": {
+        "start": "2022-03-01 00:00:00"
+    },
+    "klines.TWTUSDT.1m": {
+        "start": "2021-02-01 00:00:00"
+    },
+    "klines.UMAUSDT.1m": {
+        "start": "2020-10-01 00:00:00"
+    },
+    "klines.WAVESUSDT.1m": {
+        "start": "2019-02-01 00:00:00"
+    },
+    "klines.WAXPUSDT.1m": {
+        "start": "2021-09-01 00:00:00"
+    },
+    "klines.WOOUSDT.1m": {
+        "start": "2022-03-01 00:00:00"
+    },
+    "klines.XECUSDT.1m": {
+        "start": "2021-10-01 00:00:00"
+    },
+    "klines.XEMUSDT.1m": {
+        "start": "2020-12-01 00:00:00"
+    },
+    "klines.YFIUSDT.1m": {
+        "start": "2020-09-01 00:00:00"
+    },
+    "klines.ZECUSDT.1m": {
+        "start": "2019-04-01 00:00:00"
+    },
+    "klines.ZENUSDT.1m": {
+        "start": "2020-08-01 00:00:00"
+    },
+    "klines.ZILUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    },
+    "klines.ZRXUSDT.1m": {
+        "start": "2019-03-01 00:00:00"
+    }
+}
